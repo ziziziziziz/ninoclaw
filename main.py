@@ -7,7 +7,7 @@ import rich.traceback
 import rich.markdown
 import rich.console
 import textwrap
-import curses
+# import curses
 import time
 import sys
 import os
